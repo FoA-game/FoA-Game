@@ -12,28 +12,51 @@ Serious Games, Participatory Action Games, Game Narrative, Dystopia, Science Fic
 ## Reference
 
 [1] Baim, C.: Praxis: The drama spiral. Staging the Personal: A Guide to Safe and Ethical Practice pp. 115–169 (2020)
+
 [2] Brown, A.L.: Transforming schools into communities of thinking and learning about serious matters. American psychologist 52(4), 399 (1997)
+
 [3] Brown, J.S.: Growing up: Digital: How the web changes work, education, and the ways people learn. Change: The magazine of higher learning 32(2), 11–20 (2000)
+
 [4] Campbell, J.: The hero’s journey: Joseph Campbell on his life and work, vol. 7.New World Library (2003)
+
 [5] Carvalho, R., Ghasempour, E., Khan, R., Slotta, J.D., Raman, P., Zhang, X., Chen, J., Chen, X., Dasgupta, C., et al.: Teacher professional development in critical action pedagogy: A culturally responsive approach. In: Proceedings of the 17th International Conference of the Learning Sciences-ICLS 2023, pp. 760-767. International Society of the Learning Sciences (2023)
+
 [6] Cezarotto, M., Martinez, P., Chamberlin, B.: Redesigning for accessibility: Design decisions and compromises in educational game design. International Journal of Serious Games 9(1), 17–33 (2022)
+
 [7] Chapman, O., Sawchuk, K.: creation: Intervention, analysis and “family resemblances” (2012)
+
 [8] Collins, K., et al.: An introduction to the participatory and non-linear aspects of video games audio. Essays on sound and vision pp. 263–298 (2007)
+
 [9] Dinerstein, J.: Technology and its discontents: On the verge of the posthuman.American Quarterly 58(3), 569–595 (2006)
+
 [10] Djaouti, D., Alvarez, J., Jessel, J.P., Rampnoux, O.: Origins of serious games.Serious games and edutainment applications pp. 25–43 (2011)
+
 [11] Freire, P.: Pedagogy of the oppressed. In: Toward a sociology of education, pp.374–386. Routledge (2020)
+
 [12] Gee, J.P.: Semiotic social spaces and affinity spaces. Beyond communities of practice language power and social context 214232 (2005)
+
 [13] Geuss, R.: The idea of a critical theory: Habermas and the Frankfurt School.Cambridge University Press (1981)
+
 [14] Giroux, H.A., Bosio, E.: Critical pedagogy and global citizenship education. In: Conversations on global citizenship education, pp. 3–12. Routledge (2021)
+
 [15] Habermas, J.: What is universal pragmatics. Communication and the Evolution of Society 1, 2–4 (1979)
+
 [16] Haraway, D.: A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century. In: The transgender studies reader, pp. 103–118. Routledge (2013)
+
 [17] Kellner, D.: Habermas, the public sphere, and democracy: A critical intervention.Perspectives on Habermas 1(1), 259–288 (2000)
+
 [18] Loveless, N.: How to make art at the end of the world: A manifesto for research-creation. Duke University Press (2019)
+
 [19] Meadwell, H.: The foundations of habermas’s universal pragmatics. Theory and society pp. 711–727 (1994)
+
 [20] Peters, V.L., Slotta, J.D.: Scaffolding knowledge communities in the classroom: New opportunities in the web 2.0 era. Designs for learning environments of the future: International perspectives from the learning sciences pp. 205–232 (2010)
+
 [21] Quintero, E.P.: In a world of migration: Rethinking literacy, language, and learning texts. Journal of Educational Media, Memory, and Society 1(1), 71–92 (2009)
+
 [22] Schulzke, M.: The critical power of virtual dystopias. Games and Culture 9(5),315–334 (2014)
+
 [23] Squire, K.: From content to context: Videogames as designed experience. Educational researcher 35(8), 19–29 (2006)
+
 [24] Vogler, C.: Joseph campbell goes to the movies: The influence of the hero’s journey in film narrative. Journal of Genius and Eminence 2(2), 9–23 (2017)
 
 ## Publications
