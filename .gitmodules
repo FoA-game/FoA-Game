@@ -1,0 +1,18 @@
+[submodule "UpperNuovartica"]
+	path = UpperNuovartica
+	url = https://github.com/FoA-game/UpperNuovartica
+[submodule "FonBay"]
+	path = FonBay
+	url = https://github.com/FoA-game/FonBay
+[submodule "CrescentGarden"]
+	path = CrescentGarden
+	url = https://github.com/FoA-game/CrescentGarden
+[submodule "Fortress"]
+	path = Fortress
+	url = https://github.com/FoA-game/Fortress
+[submodule "MirrorCity"]
+	path = MirrorCity
+	url = https://github.com/FoA-game/MirrorCity
+[submodule "LowerNuovartica"]
+	path = LowerNuovartica
+	url = https://github.com/FoA-game/LowerNuovartica
