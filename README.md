@@ -10,8 +10,18 @@
 - [Fon-Bay](https://github.com/FoA-game/FonBay/blob/main/EP1/stories.md)
 - [Crescent Garden](https://github.com/FoA-game/CrescentGarden/blob/main/EP1/stories.md)
 - [Fortress](https://github.com/FoA-game/Fortress/blob/main/EP1/stories.md)
-- [Mirror City](https://github.com/FoA-game/MirrorCity/blob/main/EP1/stories.md#mc-a---paradise-lost)
+- [Mirror City](https://github.com/FoA-game/MirrorCity/blob/main/EP1/stories.md)
 - [Lower Nuovartica](https://github.com/FoA-game/LowerNuovartica/blob/main/EP1/stories.md)
+
+## Items
+
+- [Upper Nuovartica](https://github.com/FoA-game/UpperNuovartica/blob/main/EP1/items.md)
+- [Fon-Bay](https://github.com/FoA-game/FonBay/blob/main/EP1/items.md)
+- [Crescent Garden](https://github.com/FoA-game/CrescentGarden/blob/main/EP1/items.md)
+- [Fortress](https://github.com/FoA-game/Fortress/blob/main/EP1/items.md)
+- [Mirror City](https://github.com/FoA-game/MirrorCity/blob/main/EP1/items.md)
+- [Lower Nuovartica](https://github.com/FoA-game/LowerNuovartica/blob/main/EP1/items.md)
+
 
 ## Reference
 
