@@ -13,6 +13,7 @@ Note: Both “story fragments” and “items” contain crucial information for
 
 Epistemic Index for Regional Relations
 The attached visual diagram titled "Fall of Artica: Epistemic Index for Regional Relations" illustrates the core thematic conflicts within the story. Each region embodies different conceptual dichotomies:
+
 <img width="531" alt="Screenshot 2024-08-12 at 12 18 52" src="https://github.com/user-attachments/assets/922c23eb-6d9c-4e41-a66f-6aab9dce1878">
 
 
