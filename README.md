@@ -9,10 +9,12 @@ The latest version of the stories is available on GitHub. Bo Tang authored every
 
 These stories are designed for a gaming experience, which differs from traditional novel reading. We employ a “fragmented storytelling” approach, where students will receive only small fragments of the story. To piece together the complete narrative, interaction among students is essential. Since no single student will have all the information, you don’t need to understand everything immediately. The goal is to grasp the overall “flavor” of the story.
 
-Note: Both “story fragments” and “items” contain crucial information for completing the game. It’s recommended to start with one location, reading both the “story fragments” and “items” sections. A good starting point is Mirror City, which is particularly relevant to visual art. From this link, you can also access other regions. Once you finish the Mirror City story, the next recommended region to explore is Fortress, as it pairs well with Mirror City. However, the choice is entirely up to you—these are just suggestions.
+Note: Both “story fragments” and “items” contain crucial information for completing the game. It’s recommended to start with one location, reading both the “story fragments” and “items” sections. A good starting point is Mirror City (https://github.com/FoA-game/MirrorCity?tab=readme-ov-file) , which is particularly relevant to visual art. From this link, you can also access other regions. Once you finish the Mirror City story, the next recommended region to explore is Fortress, as it pairs well with Mirror City. However, the choice is entirely up to you—these are just suggestions.
 
 Epistemic Index for Regional Relations
 The attached visual diagram titled "Fall of Artica: Epistemic Index for Regional Relations" illustrates the core thematic conflicts within the story. Each region embodies different conceptual dichotomies:
+<img width="531" alt="Screenshot 2024-08-12 at 12 18 52" src="https://github.com/user-attachments/assets/922c23eb-6d9c-4e41-a66f-6aab9dce1878">
+
 
 Utility vs. Value
 Freedom vs. Security
