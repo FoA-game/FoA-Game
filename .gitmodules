@@ -16,3 +16,6 @@
 [submodule "LowerNuovartica"]
 	path = LowerNuovartica
 	url = https://github.com/FoA-game/LowerNuovartica
+[submodule "FoA-1.0"]
+	path = FoA-1.0
+	url = https://github.com/markiianbabiak/FoA-1.0.git
